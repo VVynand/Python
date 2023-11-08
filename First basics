@@ -1,0 +1,5 @@
+#In contrast to R, always use  print() if not in pandas
+
+#example
+x = "Alpha"
+print(x)
